@@ -1,0 +1,35 @@
+.in_gas {
+    background: #7dc1d8;
+}
+
+.reac_nonmet {
+    background: #6ebe6c;
+}
+
+.alk_met {
+    background: #e04f4f;
+}
+
+.ear_met {
+    background: #e4af44;
+}
+
+.halogens {
+    background: #DCE027;
+}
+
+.metalloid {
+    background: #cccc99;
+}
+
+.pt_met {
+    background: #ada5a5;
+}
+
+.trans_met {
+    background: #f1a8f3;
+} 
+
+.skip {
+    background: #130f3f;
+}

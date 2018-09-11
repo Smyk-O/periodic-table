@@ -19,21 +19,46 @@ body{
     padding: 5px 5px 0 5px;
 }
 
+
+
+.per_btn {
+    width:50%;
+    height: 100%;
+    margin: 0 2px;
+    fill: #5B5B5B;
+}
+
+.btn_border, .elem_border {
+    x:5;
+    y:5;
+    rx:10;
+    stroke: #515251;
+    stroke-width:10;
+}
+
+.btn_border_gr {
+    height:90%;
+    width:95%;
+    fill: #d4d4d4;
+}
+
+.btn_border_per {
+    height:95%;
+    width:90%;
+    fill: #d4d4d4;
+}
+
+.elem_border {
+    height:95%;
+    width:95%;
+}
+
+
 .elem {
     width:100%;
     height: 100%;
     fill: #5B5B5B;
     margin: 0 2px;
-}
-
-.elem_border {
-    x:5;
-    y:5;
-    width:95%;
-    height:95%;
-    rx:10;
-    stroke: #515251;
-    stroke-width:10;
 }
 
 .alk_met {
