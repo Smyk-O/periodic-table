@@ -1,6 +1,9 @@
 $(document).ready(function () {
-    $('.femly *').click(function (event) {
-        $('.chem_elem *').css('opacity', '1');
+    var $chem_elem = $('.chem_elem *');
+    var $btn = $('.femly *')
+
+    $btn.click(function (event) {
+        $chem_elem.css('opacity', '1');
         var $target = $(event.target);
         var index = $target.attr('class');
         console.log(index)
