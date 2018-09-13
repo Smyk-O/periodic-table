@@ -31,5 +31,10 @@
 } 
 
 .skip {
-    background: #130f3f;
+    width: 70px;
+    height: 71px;
+    background: 0%;
+    border: solid #00000000 5px;
+    padding: 1px;
+    margin: 2px;
 }
